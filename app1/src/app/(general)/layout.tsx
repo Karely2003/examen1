@@ -1,5 +1,5 @@
 import NavBar from "../Componentes/NavBar";
-import ProviderGasto from "../../Provider/ProviderGasto";
+import ProviderGasto from "../Provider/ProviderGastos";
 
 export default function LayoutGasto({
   children,

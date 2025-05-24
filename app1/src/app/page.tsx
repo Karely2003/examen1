@@ -9,7 +9,7 @@ export default function Home() {
 
   function login() {
     if (usuario === 'admin' && clave === 'admin123') {
-      route.push('/presupuesto');
+      route.push('/Presupuesto');
     } else {
       alert('Usuario o clave incorrecta');
     }
